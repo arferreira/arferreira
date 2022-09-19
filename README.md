@@ -1,0 +1,1 @@
+<a href="https://app.daily.dev/antonioricardof"><img src="https://api.daily.dev/devcards/ab5dbb3d86b84c1780e3ef6b7d154498.png?r=g17" width="400" alt="Antonio Ricardo Ferreira de Souza's Dev Card"/></a>
