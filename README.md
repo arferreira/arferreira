@@ -34,7 +34,7 @@ Im a software engineer that work solving problems since 2006. Work with Python, 
 ### Socials
                   
                   
-<p>
+
 
 <a href="https://www.github.com/arferreira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
@@ -42,7 +42,8 @@ Im a software engineer that work solving problems since 2006. Work with Python, 
 
 <a href="https://www.linkedin.com/in/antonioricardof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-<a href="https://www.twitter.com/arfs.antonio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.twitter.com/arfs.antonio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+
 
 ### Badges
 <b>My GitHub Stats</b>
