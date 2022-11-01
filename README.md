@@ -34,7 +34,7 @@ Im a software engineer that work solving problems since 2006. Work with Python, 
 ### Socials
                   
                   
-<p align="left">
+<p>
 
 <a href="https://www.github.com/arferreira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 
