@@ -33,11 +33,7 @@ Im a software engineer that work solving problems since 2006. Work with Python, 
                    
 ### Socials
                   
-                  
-
-
-<a href="https://www.github.com/arferreira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-
+                
 <a href="http://www.instagram.com/arfs.antonio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 <a href="https://www.linkedin.com/in/antonioricardof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
