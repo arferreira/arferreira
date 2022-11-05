@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Im a software engineer that work solving problems since 2006. Work with Python, NodeJS, Golang and other stacks actually.
+Im a software engineer that work solving problems since 2006. Work with Python, NodeJS, Golang, Ruby and other stacks actually.
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [arfs.antonio@gmail.com](mailto:arfs.antonio@gmail.com)
