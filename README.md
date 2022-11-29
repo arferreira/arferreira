@@ -9,7 +9,7 @@ Im a software engineer that work solving problems since 2006. Work with Python, 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [arfs.antonio@gmail.com](mailto:arfs.antonio@gmail.com)
 *   🚀  I'm currently working on [Compensa](http://compensa.eco)
-*   🧠  I'm learning Clean Architecture and Clean Code### Skills 
+*   🧠  I'm learning Clean Architecture and Clean Code
 <p align="left">
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/antonioricardof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antonioricardof" height="30" width="40" /></a>
 </p>
